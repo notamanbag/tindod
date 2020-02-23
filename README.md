@@ -1,2 +1,1 @@
-# tindod
-html/css/bootsrap
+TinDog Starting Files
